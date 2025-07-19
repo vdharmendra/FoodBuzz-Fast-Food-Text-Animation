@@ -36,6 +36,6 @@ FoodBuzz/
 - Google Fonts (Bangers, Chewy, etc.)
 
 <span>👉 Desktop Design</span><br/>
-<a href="https://www.behance.net/gallery/230224139/serach-icon-animation" target="_blank" >
+<a href="#" target="_blank" >
 <img src="./text-effect-animation.gif" width="575px"/>
 </a>

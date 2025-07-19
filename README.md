@@ -36,6 +36,6 @@ FoodBuzz/
 - Google Fonts (Bangers, Chewy, etc.)
 
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/230685691/FoodBuzz-Fast-Food-Text-Animation" target="_blank" >
 <img src="./text-effect-animation.gif" width="575px"/>
 </a>

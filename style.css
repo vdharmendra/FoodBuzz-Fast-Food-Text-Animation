@@ -1,0 +1,28 @@
+/* GOOGLE FONT LINK */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+/* RESET DEAFULT CSS */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* BODY STYLE */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background: linear-gradient(45deg, #ef629a, #eecda1);
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: #000;
+    letter-spacing:2px;
+    font-size: 4rem;
+    -webkit-text-stroke: .05px #ffffff;
+    text-stroke: .05px #ffffff; /* For non-webkit browsers (limited support) */
+
+}
